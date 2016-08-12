@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="calender_item_height">40dip</dimen>
+    <dimen name="calender_item_text_height">36dip</dimen>
+    <!-- 日期高度为calender_item_height*6 -->
+    <dimen name="calender_height">240dip</dimen>
+</resources>
